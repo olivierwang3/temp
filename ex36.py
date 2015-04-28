@@ -25,13 +25,13 @@ def red_room():
 	global hp
 	print "*****"
 	print "You enter a room with walls painted red."
-	#raw_input()
+	raw_input()
 	print "A little boy with an axe stands in the middle."
-	#raw_input()
+	raw_input()
 	print "The little boy says: 'Welcome to the redrum!' with a snark on his face."
-	#raw_input()
+	raw_input()
 	print 'I like hacking people to pieces !'
-	#raw_input()
+	raw_input()
 	red_combat()
 	
 	
